@@ -1,6 +1,7 @@
 package com.vimso.pruebas.cucumberprueba.servicio;
 
 import com.vimso.pruebas.cucumberprueba.conf.SpringContext;
+import com.vimso.pruebas.cucumberprueba.servicio.IServicio;
 import javax.inject.Inject;
 import org.junit.After;
 import org.junit.AfterClass;
