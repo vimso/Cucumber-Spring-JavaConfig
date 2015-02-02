@@ -1,5 +1,5 @@
-Feature: Speaking
+Feature: Sumando
 
-Scenario: Say something
-Given an application
-Then say something
+Scenario: Sumando numeros
+Given cargada la app
+Then suma dos numeros
